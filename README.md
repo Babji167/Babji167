@@ -68,7 +68,7 @@ Turning data into actionable business insights through analytics, visualization,
 
 End-to-end analytics project exploring customer behavior, sales performance, profitability, and business insights using SQL, Python, Excel, and Power BI.
 
-🔗 Repository: **Coming Soon**
+🔗 Repository: **Ecommerce-Sales-Customer-Analytics**
 
 ---
 
@@ -76,7 +76,7 @@ End-to-end analytics project exploring customer behavior, sales performance, pro
 
 Analyzed shipment delays, carrier performance, shipping modes, and logistics efficiency through exploratory data analysis and visualization.
 
-🔗 Repository: **Coming Soon**
+🔗 Repository: **supply-chain-delay-analysis**
 
 ---
 
@@ -84,7 +84,7 @@ Analyzed shipment delays, carrier performance, shipping modes, and logistics eff
 
 Business intelligence project analyzing AI adoption trends across industries to identify business opportunities and organizational readiness.
 
-🔗 Repository: **Coming Soon**
+🔗 Repository: **AI-Adoption-Analysis**
 
 ---
 
